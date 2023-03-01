@@ -4,10 +4,10 @@ ghpages.publish(
     'public', // path to public directory
     {
         branch: 'gh-pages',
-        repo: 'https://github.com/IvanMass99/Calculadora-Gamer', // Update to point to your repository  
+        repo: 'https://github.com/EzequielGomez74/Calculadora-para-Tiendas-Gamers', // Update to point to your repository  
         user: {
-            name: 'IvanMass99', // update to use your name
-            email: 'ivaanmass@gmail.com' // Update to use your email
+            name: 'EzeGomez74', // update to use your name
+            email: 'ezequiel.canob@gmail.com' // Update to use your email
         }
     },
     () => {
