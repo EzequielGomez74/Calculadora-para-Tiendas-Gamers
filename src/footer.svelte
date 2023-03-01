@@ -4,7 +4,7 @@
 
 <footer id="contacto" class="p-5 text-center text-light" style="margin-top: 15%;">
 
-<h3 style="color:rgb(220, 166, 236);">Calculadora para Tiendas Gamers</h3>
+<h3 style="color:rgb(220, 166, 236);">Creación:</h3>
 <h4>Ezequiel Gomez</h4>
 <br>
 <h3 style="color:rgb(220, 166, 236);">Contacto</h3>

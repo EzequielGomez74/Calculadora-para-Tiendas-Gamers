@@ -5,7 +5,7 @@
 
     <div class="bienvenida text-center">
 
-        <h1 class="" style="color:rgb(220, 166, 236);"> CALCULADORA GAMER </h1>
+        <h1 class="" style="color:rgb(220, 166, 236);"> CALCULADORA PARA TIENDAS GAMERS </h1>
     
         <h4 class="mt-5 mb-3 text-light"> Calcula el precio final con impuestos incluidos en algunas de las  tiendas mas conocidas de videojuegos.</h4>
 
