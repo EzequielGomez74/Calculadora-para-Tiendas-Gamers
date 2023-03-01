@@ -1,0 +1,71 @@
+[
+
+{   
+    "id":"0",
+    "icono":"bi bi-reddit",
+    "usuario":"Svelte user",
+    "texto":"Que buenoooo, ahora voy a poder calcular los impuestos mas facilmente a la hora de comprar",
+    "votos": 30
+},
+
+{
+
+    "id":"1",
+    "icono":"bi bi-reddit",
+    "usuario":"User Svelte",
+    "texto":"Excelente, va a ser de uso diario para mi",
+    "votos": 15
+
+},
+
+{
+
+    "id":"3",
+    "icono":"bi bi-reddit",
+    "usuario":"Svelte usuario",
+    "texto":"Podria estar mejor la verdad, esperaba un poco mas",
+    "votos": 3
+
+},
+
+{
+
+    "id":"4",
+    "icono":"bi bi-reddit",
+    "usuario":"Ricardo Fort",
+    "texto":"Muy buena app man, ahora no tengo que sacar tantas cuentas en mi cabeza para comprar games y viajar tranquilo a maiame",
+    "votos": 6
+
+},
+
+{
+
+    "id":"5",
+    "icono":"bi bi-reddit",
+    "usuario":"Lionel Messi",
+    "texto":"Menos mal que hiciste esta app viejo, Mateo y Ciro me estan dejando en banca rota, ahora puedo calcular aca lo que me cobra cada juego, vamo Argentina",
+    "votos": 12
+
+},
+
+{
+
+    "id":"6",
+    "icono":"bi bi-reddit",
+    "usuario":"Kun Aguero",
+    "texto":"Vamo a jugá?",
+    "votos": 5
+
+},
+
+{
+
+    "id":"7",
+    "icono":"bi bi-reddit",
+    "usuario":"CR7",
+    "texto":"Siiiiiiiiiiiiuuuuuuuu",
+    "votos": 7
+
+}
+
+]
