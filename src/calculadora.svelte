@@ -24,7 +24,7 @@
     
     <main id="calculadora">
 
-        <h2 class="text-light text-center">Tiendas de videojuegos</h2>
+        <h2 class="text-light text-center">Tiendas</h2>
     
     <div class="card-group justify-content-center">
         {#each stores as store (store.id) }

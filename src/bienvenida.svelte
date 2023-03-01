@@ -9,7 +9,7 @@
     
         <h4 class="mt-5 mb-3 text-light"> Calcula el precio final con impuestos incluidos en algunas de las  tiendas mas conocidas de videojuegos.</h4>
 
-        <h5 class="text-secondary">¡Actualizada a los últimos impuestos agregados!</h5>
+        
     
         <h5 class="text-secondary"></h5>
     

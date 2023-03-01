@@ -14,15 +14,15 @@
             <ul class="navbar-nav text-center">
     
               <li class="nav-item hvr-float">
-                <a class="nav-link mx-5" aria-current="page" href="#inicio">inicio</a>
+                <a class="nav-link mx-5" aria-current="page" href="#inicio">Inicio</a>
               </li>
     
               <li class="nav-item hvr-float">
-                <a class="nav-link  mx-5" href="#calculadora">calculadora</a>
+                <a class="nav-link  mx-5" href="#calculadora">Calculadora</a>
               </li>
     
               <li class="nav-item hvr-float">
-                <a class="nav-link  mx-5" href="#contacto">contacto</a>
+                <a class="nav-link  mx-5" href="#contacto">Contacto</a>
               </li>
     
     
