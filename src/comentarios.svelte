@@ -46,10 +46,10 @@
     }
 
     #card h4 {
-        color: salmon;
+        color: rgb(220, 166, 236);
     }
 
     #card i {
-        color: salmon;
+        color: rgb(220, 166, 236)n;
     }
 </style>

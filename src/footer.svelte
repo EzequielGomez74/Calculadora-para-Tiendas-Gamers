@@ -4,10 +4,10 @@
 
 <footer id="contacto" class="p-5 text-center text-light" style="margin-top: 15%;">
 
-<h3 style="color:salmon;">Calculadora para Tiendas Gamers</h3>
+<h3 style="color:rgb(220, 166, 236);">Calculadora para Tiendas Gamers</h3>
 <h4>Ezequiel Gomez</h4>
 <br>
-<h3 style="color:salmon;">Contacto</h3>
+<h3 style="color:rgb(220, 166, 236);">Contacto</h3>
 <h4>ezequiel.canob@gmail.com</h4>
 
 <div class="mt-4" style="font-size:28px">
@@ -27,7 +27,7 @@ footer
 {
 
     background-color: rgb(10, 10, 20, 0.5);
-    border-top: 3px salmon solid;
+    border-top: 3px rgb(220, 166, 236) solid;
 
 }
 

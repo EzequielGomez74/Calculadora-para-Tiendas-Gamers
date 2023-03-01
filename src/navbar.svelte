@@ -6,7 +6,7 @@
     
         <div class="container-fluid">
          
-          <button style="background-color: salmon; border-radius:10%;" class="navbar-toggler text-center m-auto mt-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <button style="background-color: rgb(220, 166, 236); border-radius:10%;" class="navbar-toggler text-center m-auto mt-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
     
@@ -49,7 +49,7 @@ a:hover
 
 {
 
-    color: salmon;
+    color: rgb(220, 166, 236);
 
 }
 

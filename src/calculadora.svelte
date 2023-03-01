@@ -88,7 +88,7 @@ input
 border-top: none;
 border-right: none;
 border-left: none;
-border-bottom: 2px solid salmon;
+border-bottom: 2px solid rgb(220, 166, 236);
 
 color: aliceblue;
 background-color: transparent;
@@ -98,7 +98,7 @@ font-size: 24px;
 
 }
 
-h3 {font-size: 24px; color: salmon;}
+h3 {font-size: 24px; color: rgb(220, 166, 236);}
 
 
     </style>

@@ -5,7 +5,7 @@
 
     <div class="bienvenida text-center">
 
-        <h1 class="" style="color:salmon;"> CALCULADORA GAMER </h1>
+        <h1 class="" style="color:rgb(220, 166, 236);"> CALCULADORA GAMER </h1>
     
         <h4 class="mt-5 mb-3 text-light"> Calcula el precio final con impuestos incluidos en algunas de las  tiendas mas conocidas de videojuegos.</h4>
 
@@ -70,7 +70,7 @@ font-size: 42px;
     margin: 10px auto;
     width: 40px;
     height: 80px;
-    border: 3px solid salmon;
+    border: 3px solid rgb(220, 166, 236);
     border-radius: 20px;
     display: flex;
   }
@@ -79,7 +79,7 @@ font-size: 42px;
     display: block;
     width: 20px;
     height: 20px;
-    background: linear-gradient(170deg, salmon, salmon);
+    background: linear-gradient(170deg, rgb(220, 166, 236), rgb(220, 166, 236));
     border-radius: 50%;
     margin: auto;
     animation: scrolling13 1.5s linear infinite;
